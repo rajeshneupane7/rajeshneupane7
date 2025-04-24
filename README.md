@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @rajeshneupane7
-- 👀 I’m interested in machine learning for animal science and veterinary
-- 🌱 I’m currently learning tensorflow and python
-- 💞️ I’m looking to collaborate on animal science projects
-- 📫 How to reach me email rajeshneupane7@gmail.com
-
-<!---
-rajeshneupane7/rajeshneupane7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧠 Ph.D. student in Animal Science at Texas A&M University
+- 🤖 I’m passionate about machine learning, computer vision, and precision livestock technologies
+- 🐄 My work focuses on AI-powered tools for disease detection, robotic milking analytics, and animal behavior monitoring
+- 💻 Currently exploring TensorFlow, PyTorch, and Retrieval-Augmented Generation (RAG) for smart agriculture
+- 🌱 Always open to collaborations in animal science, dairy technology, and agri-AI research
+- 📫 Reach me at: rajeshneupane7@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajneu)
